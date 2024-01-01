@@ -1,0 +1,18 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-image: url('./img/bg-tablet-pattern.svg');
+    background-repeat:no-repeat ;
+    background-size:800px;
+    background-position: 90%,-25%;
+}
+#cta{
+    background-image: url('./img/bg-simplify-section-desktop.svg');
+}
+/* hamburger menu css */
+#menubtn{
+    position:relative;
+    cursor:pointer;
+    width: 30px;
+    height:30px;
+    transition: all 0.25s;
+}
